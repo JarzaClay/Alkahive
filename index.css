@@ -1,3 +1,11 @@
+h1 {
+ font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
 #mainbody {
-background-color: gray; 
+  background-color: gray; 
+}
+
+#alkahive {
+  font-family: Apple Chancery, cursive;
 }
