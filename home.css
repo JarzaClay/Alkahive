@@ -1,3 +1,8 @@
-.mainfooter {
+#mainfooter {
   outline: 10px; 
+}
+#background {
+ height: 1000px;
+ width: 500px;
+ background-color: green;
 }
